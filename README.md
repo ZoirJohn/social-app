@@ -2,7 +2,6 @@
 
 **🔗 Live demo:** *(add your deployed link here)*
 
----
 
 ## ✨ Features
 
@@ -15,7 +14,6 @@
 - 🔍 Search users and posts by keywords or hashtags  
 - 🌙 Dark mode toggle for UI preference  
 
----
 
 ## 🛠 Technologies
 
@@ -25,7 +23,6 @@
 - **Authentication:** 🔐 JWT + bcrypt  
 - **API:** 🔄 RESTful endpoints  
 
----
 
 ## 📂 Process
 
@@ -36,7 +33,6 @@
 5. ⚙️ Added real-time updates via polling or websockets (if used)  
 6. 🌐 Prepared for deployment with environment config and build scripts  
 
----
 
 ## 🔍 How It Works
 
@@ -46,7 +42,6 @@
 - **Database:** MongoDB stores user data, posts, messages, and relationships  
 - **Security:** Passwords hashed with bcrypt, JWT tokens secure sessions  
 
----
 
 ## 🚀 How It Can Be Improved
 
@@ -57,7 +52,6 @@
 - ♿ Improve UI accessibility and keyboard navigation  
 - 🛡 Implement rate limiting and advanced security practices  
 
----
 
 ## 🐞 Issues
 
@@ -65,13 +59,11 @@
 - 🖼 Media upload size limits need refinement  
 - 🔑 Environment variables required for JWT secrets and DB connections  
 
----
 
 ## 📷 Video/Image Previews
 
 *(📸 Add screenshots or demo videos here)*
 
----
 
 ## 🚀 Getting Started
 
